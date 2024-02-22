@@ -15,7 +15,7 @@ $ npm install
 $ npm run dev -w frontend
 
 # Run backend
-$ npm run dev -w backend
+$ npm run start -w backend
 ```
 
 ## Test
