@@ -14,8 +14,8 @@ $ npm install
 # Run frontend
 $ npm run dev -w frontend
 
-# Run backend
-$ npm run start -w backend
+# Run backend (and init prisma schema)
+$ npm run dev -w backend
 ```
 
 ## Test
